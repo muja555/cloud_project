@@ -10,7 +10,7 @@ namespace cloud_project.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Ahmed Qerem says welcome to my cloud";
+            ViewBag.Message = "nada cloud application";
 
             return View();
         }
